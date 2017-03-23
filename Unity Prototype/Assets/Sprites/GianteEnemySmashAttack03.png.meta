@@ -1,0 +1,1780 @@
+fileFormatVersion: 2
+guid: f140331a5d7f10243a4f8fde9c37fcb8
+timeCreated: 1489588679
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GianteEnemySmashAttack03_0
+    21300002: GianteEnemySmashAttack03_1
+    21300004: GianteEnemySmashAttack03_2
+    21300006: GianteEnemySmashAttack03_3
+    21300008: GianteEnemySmashAttack03_4
+    21300010: GianteEnemySmashAttack03_5
+    21300012: GianteEnemySmashAttack03_6
+    21300014: GianteEnemySmashAttack03_7
+    21300016: GianteEnemySmashAttack03_8
+    21300018: GianteEnemySmashAttack03_9
+    21300020: GianteEnemySmashAttack03_10
+    21300022: GianteEnemySmashAttack03_11
+    21300024: GianteEnemySmashAttack03_12
+    21300026: GianteEnemySmashAttack03_13
+    21300028: GianteEnemySmashAttack03_14
+    21300030: GianteEnemySmashAttack03_15
+    21300032: GianteEnemySmashAttack03_16
+    21300034: GianteEnemySmashAttack03_17
+    21300036: GianteEnemySmashAttack03_18
+    21300038: GianteEnemySmashAttack03_19
+    21300040: GianteEnemySmashAttack03_20
+    21300042: GianteEnemySmashAttack03_21
+    21300044: GianteEnemySmashAttack03_22
+    21300046: GianteEnemySmashAttack03_23
+    21300048: GianteEnemySmashAttack03_24
+    21300050: GianteEnemySmashAttack03_25
+    21300052: GianteEnemySmashAttack03_26
+    21300054: GianteEnemySmashAttack03_27
+    21300056: GianteEnemySmashAttack03_28
+    21300058: GianteEnemySmashAttack03_29
+    21300060: GianteEnemySmashAttack03_30
+    21300062: GianteEnemySmashAttack03_31
+    21300064: GianteEnemySmashAttack03_32
+    21300066: GianteEnemySmashAttack03_33
+    21300068: GianteEnemySmashAttack03_34
+    21300070: GianteEnemySmashAttack03_35
+    21300072: GianteEnemySmashAttack03_36
+    21300074: GianteEnemySmashAttack03_37
+    21300076: GianteEnemySmashAttack03_38
+    21300078: GianteEnemySmashAttack03_39
+    21300080: GianteEnemySmashAttack03_40
+    21300082: GianteEnemySmashAttack03_41
+    21300084: GianteEnemySmashAttack03_42
+    21300086: GianteEnemySmashAttack03_43
+    21300088: GianteEnemySmashAttack03_44
+    21300090: GianteEnemySmashAttack03_45
+    21300092: GianteEnemySmashAttack03_46
+    21300094: GianteEnemySmashAttack03_47
+    21300096: GianteEnemySmashAttack03_48
+    21300098: GianteEnemySmashAttack03_49
+    21300100: GianteEnemySmashAttack03_50
+    21300102: GianteEnemySmashAttack03_51
+    21300104: GianteEnemySmashAttack03_52
+    21300106: GianteEnemySmashAttack03_53
+    21300108: GianteEnemySmashAttack03_54
+    21300110: GianteEnemySmashAttack03_55
+    21300112: GianteEnemySmashAttack03_56
+    21300114: GianteEnemySmashAttack03_57
+    21300116: GianteEnemySmashAttack03_58
+    21300118: GianteEnemySmashAttack03_59
+    21300120: GianteEnemySmashAttack03_60
+    21300122: GianteEnemySmashAttack03_61
+    21300124: GianteEnemySmashAttack03_62
+    21300126: GianteEnemySmashAttack03_63
+    21300128: GianteEnemySmashAttack03_64
+    21300130: GianteEnemySmashAttack03_65
+    21300132: GianteEnemySmashAttack03_66
+    21300134: GianteEnemySmashAttack03_67
+    21300136: GianteEnemySmashAttack03_68
+    21300138: GianteEnemySmashAttack03_69
+    21300140: GianteEnemySmashAttack03_70
+    21300142: GianteEnemySmashAttack03_71
+    21300144: GianteEnemySmashAttack03_72
+    21300146: GianteEnemySmashAttack03_73
+    21300148: GianteEnemySmashAttack03_74
+    21300150: GianteEnemySmashAttack03_75
+    21300152: GianteEnemySmashAttack03_76
+    21300154: GianteEnemySmashAttack03_77
+    21300156: GianteEnemySmashAttack03_78
+    21300158: GianteEnemySmashAttack03_79
+    21300160: GianteEnemySmashAttack03_80
+    21300162: GianteEnemySmashAttack03_81
+    21300164: GianteEnemySmashAttack03_82
+    21300166: GianteEnemySmashAttack03_83
+    21300168: GianteEnemySmashAttack03_84
+    21300170: GianteEnemySmashAttack03_85
+    21300172: GianteEnemySmashAttack03_86
+    21300174: GianteEnemySmashAttack03_87
+    21300176: GianteEnemySmashAttack03_88
+    21300178: GianteEnemySmashAttack03_89
+    21300180: GianteEnemySmashAttack03_90
+    21300182: GianteEnemySmashAttack03_91
+    21300184: GianteEnemySmashAttack03_92
+    21300186: GianteEnemySmashAttack03_93
+    21300188: GianteEnemySmashAttack03_94
+    21300190: GianteEnemySmashAttack03_95
+    21300192: GianteEnemySmashAttack03_96
+    21300194: GianteEnemySmashAttack03_97
+    21300196: GianteEnemySmashAttack03_98
+    21300198: GianteEnemySmashAttack03_99
+    21300200: GianteEnemySmashAttack03_100
+    21300202: GianteEnemySmashAttack03_101
+    21300204: GianteEnemySmashAttack03_102
+    21300206: GianteEnemySmashAttack03_103
+    21300208: GianteEnemySmashAttack03_104
+    21300210: GianteEnemySmashAttack03_105
+    21300212: GianteEnemySmashAttack03_106
+    21300214: GianteEnemySmashAttack03_107
+    21300216: GianteEnemySmashAttack03_108
+    21300218: GianteEnemySmashAttack03_109
+    21300220: GianteEnemySmashAttack03_110
+    21300222: GianteEnemySmashAttack03_111
+    21300224: GianteEnemySmashAttack03_112
+    21300226: GianteEnemySmashAttack03_113
+    21300228: GianteEnemySmashAttack03_114
+    21300230: GianteEnemySmashAttack03_115
+    21300232: GianteEnemySmashAttack03_116
+    21300234: GianteEnemySmashAttack03_117
+    21300236: GianteEnemySmashAttack03_118
+    21300238: GianteEnemySmashAttack03_119
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3584
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3584
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_3
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3584
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_4
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_5
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3584
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_6
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3584
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_7
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3584
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_8
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3584
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_9
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 3584
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_10
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3584
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_11
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 3584
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_12
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 3584
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_13
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 3584
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_14
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 3584
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3072
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3072
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3072
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_20
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3072
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_21
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3072
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_22
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3072
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_23
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_24
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 3072
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_25
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3072
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_26
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 3072
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_27
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 3072
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_28
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 3072
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_29
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 3072
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2560
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_32
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2560
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_33
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2560
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_35
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2560
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_36
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2560
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_37
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2560
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_38
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_39
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 2560
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_40
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2560
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_41
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 2560
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_42
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2560
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_43
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 2560
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_44
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 2560
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2048
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_47
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2048
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_48
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2048
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_49
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_50
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2048
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_51
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2048
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_52
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 2048
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_53
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_54
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 2048
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_55
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2048
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_56
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 2048
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_57
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 2048
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_58
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 2048
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_59
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 2048
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_61
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_62
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_63
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1536
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_64
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_65
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1536
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_66
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1536
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_67
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1536
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_68
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_69
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1536
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_70
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1536
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_71
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 1536
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_72
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1536
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_73
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 1536
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_74
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1536
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_77
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_78
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1024
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_79
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_80
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1024
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_81
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1024
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_82
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1024
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_83
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_84
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1024
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_85
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1024
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_86
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 1024
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_87
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1024
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_88
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 1024
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_89
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 1024
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_92
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_93
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_94
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_95
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 512
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_96
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 512
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_97
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 512
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_98
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_99
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 512
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_100
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 512
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_101
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 512
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_102
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 512
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_103
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 512
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_104
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 512
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_106
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_107
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_108
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_109
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_110
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_111
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_112
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_113
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_114
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_115
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_116
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 0
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_117
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_118
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 0
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GianteEnemySmashAttack03_119
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0
+        width: 384
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
